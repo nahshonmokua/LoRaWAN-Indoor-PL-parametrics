@@ -11,4 +11,3 @@ plotly
 openpyxl
 nbformat
 statsmodels
-
