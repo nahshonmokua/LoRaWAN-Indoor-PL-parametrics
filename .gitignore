@@ -150,7 +150,11 @@ cython_debug/
 
 # Commonly Reused with confidential Info
 
-#FILES (ALSO PERSONAL NOTES)
+#FILES { FOLDERS} (ALSO PERSONAL NOTES)
+
+Data+Files+Plots+etc
+b_MLR (OLS-ANOVA & SHADOW ANALYSIS) - Initial Paper.ipynb
+b_Data Preparation.ipynb
 Untitled.ipynb
 To Do List and Research Directions.txt
 ML Stages0.png
